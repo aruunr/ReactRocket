@@ -8,8 +8,9 @@ React, react-redux, google-maps-react, react-sliding-pane, tachyons, css3.
 
 ### How to run
 
-1.Clone the project and install npm from the root folder.
-2.npm start
+1. Clone the project and install npm from the root folder.
+
+2. npm start.
 
 
 
