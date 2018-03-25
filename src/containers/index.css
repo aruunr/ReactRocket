@@ -1,0 +1,133 @@
+body {
+    margin : 0;
+    padding : 0;
+    font-family: sans-serif;    
+}
+
+.slide-pane__content{
+  padding : 0; 
+}
+
+.slide-pane__header{
+   text-align: center;
+   background-color:#43E895;
+   height: 8vh;
+}
+
+.slide-pane__close{
+    padding:0px
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+}
+
+.heading{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    background-color:#43E895;
+    padding-left: 15%;
+    display:flex;
+}
+
+.subHeading:nth-of-type(1){
+    flex: 3;
+}
+
+.subHeading:nth-of-type(2){
+    flex: 1;
+    padding-right: 3%;
+    text-align: end;
+}
+
+.detailBlock{
+    background-color:#34B379;
+    height : 60px; 
+    text-align: left;    
+}
+
+.headingText{
+     color: white;
+     font-size: 17px;
+     font-family: 'AvenirNextDemiBold'
+}
+
+.image{
+    position: relative;
+    vertical-align:bottom;
+}
+
+.container{
+    position: relative;
+}
+
+.overlay{
+    text-align: left;
+    margin-left: 12px;
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 6px;
+}
+
+h2{
+    color: white;
+    margin:0px;
+    font-size: 16px;
+    font-family: 'AvenirNextDemiBold'
+}
+
+.detailText{
+    margin-left: 12px;
+    padding-top: 10px;
+    font-family: 'AvenirNextDemiBold'
+}
+
+.detailSubText{
+    margin-left: 12px;
+    font-family: 'AvenirNextRegular';
+}
+
+.w{
+    margin-left: 12px;
+}
+
+.detailInfo:nth-of-type(1){
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+.detailInfo:nth-of-type(2){
+    margin: 0px;
+}
+
+.detailInfo:nth-of-type(3){
+    margin-top: 26px;
+}
+
+.detailInfo:nth-of-type(4){
+    margin-top: 26px;
+    color: #2A2A2A;
+}
+
+h3{
+    color: white;
+    margin:0px;
+    font-size: 12px;
+    margin-top: 6px;
+    font-family: 'AvenirNextRegular';
+}
+
+@font-face {
+  font-family: 'AvenirNextDemiBold';
+  src: local('AvenirNext-DemiBold'), url(../fonts-master/macfonts/Avenir Next/AvenirNext-DemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirNextRegular';
+  src: local('AvenirNext-Regular'), url(../fonts-master/macfonts/Avenir Next/AvenirNext-Regular.ttf) format('truetype');
+}
+
