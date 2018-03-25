@@ -16,5 +16,7 @@ React, react-redux, google-maps-react, react-sliding-pane, tachyons, css3.
 
 ![](https://media.giphy.com/media/1bILhZq2yAdL8pWcO4/giphy.gif)
 
+[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+
 
 
