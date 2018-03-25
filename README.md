@@ -14,6 +14,6 @@ React, react-redux, google-maps-react, react-sliding-pane, tachyons, css3.
 
 ## Gif Demo
 
-![](https://media.giphy.com/media/1bILhZq2yAdL8pWcO4/400.gif)
+![](https://media.giphy.com/media/1bILhZq2yAdL8pWcO4/200.gif)
 
 
