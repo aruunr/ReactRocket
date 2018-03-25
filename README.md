@@ -14,7 +14,7 @@ React, react-redux, google-maps-react, react-sliding-pane, tachyons, css3.
 
 #### Gif Demo
 
-![aham brahmasmi]( https://gph.is/2IQpzPR)
+<iframe src="https://giphy.com/embed/1bILhZq2yAdL8pWcO4" width="272" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1bILhZq2yAdL8pWcO4">via GIPHY</a></p>
 
 
 
