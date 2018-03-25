@@ -12,5 +12,9 @@ React, react-redux, google-maps-react, react-sliding-pane, tachyons, css3.
 
 2. npm start.
 
+#### Gif Demo
+
+![aham brahmasmi]( https://gph.is/2IQpzPR)
+
 
 
